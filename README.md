@@ -29,7 +29,7 @@ This is a simple Python-based GUI application for basic file and directory manag
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/file-manager-gui.git
+   git clone https://github.com/bardiw/File_Manager.git
    cd file-manager-gui
 
 2. **Install dependencies:**
