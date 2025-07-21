@@ -108,3 +108,4 @@ Button(window, command=make_directory, text="Create folder", fg="blue", activeba
 Button(window, command=remove_directory, text="Delete folder", fg="blue", activebackground="red", bg="white").pack()
 Button(window, command=list_files, text="List of all files", fg="blue", activebackground="red", bg="white").pack()
 
+window.mainloop()
